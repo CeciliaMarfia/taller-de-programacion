@@ -4,9 +4,9 @@ Prácticas resueltas y material de estudio de Taller de Programación (Facultad 
 
 ## Estructura
 
-- `IMPERATIVO/`: prácticas en Pascal, diapositivas y parciales 2023.
-- `POO/`: prácticas en Java y diapositivas.
-- `CONCURRENTE/`: prácticas en R-Info y diapositivas.
+- `imperativo/`: prácticas en Pascal, diapositivas y parciales 2023.
+- `poo/`: prácticas en Java y diapositivas.
+- `concurrente/`: prácticas en R-Info y diapositivas.
 
 ## Temas
 
