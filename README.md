@@ -1,22 +1,19 @@
-# 📁 Taller de Programación
+# Taller de Programación
 
-## 👩🏻‍💻 Cecilia Marfia
+Prácticas resueltas y material de estudio de Taller de Programación (Facultad de Informática, UNLP), organizados por módulo.
 
-### Nro. de alumna: 17208/4
+## Estructura
 
-Contenido de las consultas prácticas de la cátedra de "Taller de programación" 📘
+- `IMPERATIVO/`: prácticas en Pascal, diapositivas y parciales 2023.
+- `POO/`: prácticas en Java y diapositivas.
+- `CONCURRENTE/`: prácticas en R-Info y diapositivas.
 
-- Facultad de Informática UNLP 💻 🌿
+## Temas
 
-### Temas Abordados:
+- Programación imperativa: árboles, ordenación, búsqueda y merge
+- Programación orientada a objetos en Java
+- Programación concurrente: procesos, comunicación y sincronización
 
-- Estructuras de datos no lineales. Árboles 🌳
-- Conceptos de programación imperativa 📝
-- Desarrollo de programas en un lenguaje imperativo 💡
-- Implementación de algoritmos fundamentales (búsqueda, ordenación) 📊
-- Conceptos de programación orientada a objetos 🧩
-- Análisis de las características fundamentales de un lenguaje orientado a objetos 📚
-- Desarrollo de programas en un lenguaje orientado a objetos 🖥️
-- Conceptos básicos de concurrencia y paralelismo ⚙️
-- Procesos. Comunicación y sincronización entre procesos 🔄
-- Desarrollo de programas concurrentes/paralelos 🚀
+---
+
+Las resoluciones son propias y pueden tener errores. El material de cátedra (diapositivas, enunciados y parciales) pertenece a sus docentes y está incluido solo como referencia de estudio.
